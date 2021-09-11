@@ -4,7 +4,7 @@
 
 	<host>127.0.0.1</host>
 	<port>22222</port>
-	<ports>22222</ports>
+	<ports>22222 | 80, 21</ports>
 
 	<urls>
 		<errors>//squirrels.itsrealgames.com/errors.php</errors>
